@@ -1,0 +1,27 @@
+CSS
+*{
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: rgb(207, 127, 147);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    border: 7px solid rgb(121, 109, 44);
+    border-radius: 0 14px 0 14px;
+    margin-top: 200px ;
+    height: 100vh;
+    width: 200px;
+    background-color: rgb(118, 183, 192);
+    text-align: center;
+    padding-bottom: 0px;
+    box-shadow:10px 5px 7px 3px  rgb(33, 83, 158);
+    color: rgb(14, 14, 71);
+    
+}
+
+
